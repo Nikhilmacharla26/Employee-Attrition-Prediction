@@ -1,5 +1,5 @@
 """
-app/main.py
+
 ------------------------------------------------------------
 Streamlit entrypoint for the Employee Turnover Risk Prediction
 and Early Intervention System.
